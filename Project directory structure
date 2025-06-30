@@ -1,0 +1,23 @@
+# Mern-blog-app
+mern-blog-app/
+├── server/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── utils/
+│   ├── .env
+│   ├── server.js
+│   └── package.json
+└── client/
+    ├── src/
+    │   ├── components/
+    │   ├── hooks/
+    │   ├── pages/
+    │   ├── services/
+    │   ├── App.jsx
+    │   ├── main.jsx
+    │   └── index.css
+    ├── .env
+    ├── vite.config.js
+    └── package.json
